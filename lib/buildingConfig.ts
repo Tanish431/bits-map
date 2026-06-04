@@ -1,6 +1,6 @@
 import type { ExpressionSpecification } from 'maplibre-gl';
 
-export type BuildingCategory = 'hostel' | 'academic' | 'mess' | 'library' | 'ltc';
+export type BuildingCategory = 'hostel' | 'academic' | 'mess' | 'library' | 'ltc' | 'sac';
 
 export interface BuildingConfig {
   osmName: string;
@@ -14,6 +14,7 @@ export const BUILDING_COLORS: Record<BuildingCategory, string> = {
   mess:     '#f97316',  // orange
   library:  '#22c55e',  // green
   ltc:      '#ec4899',  // pink
+  sac:      '#22c55e'
 };
 
 export const BUILDING_OPACITY = 0.55;
@@ -38,11 +39,15 @@ export const BUILDINGS: BuildingConfig[] = [
 
   // Academic
   { osmName: 'FD 1',                          category: 'academic', height: 20 },
+  { osmName: 'FD 2',                          category: 'academic', height: 20 },
+  { osmName: 'FD-2 & FD-3',                          category: 'academic', height: 20 },
   { osmName: 'New Academic Block',            category: 'academic', height: 20 },
   { osmName: 'New Academic Building',         category: 'academic', height: 20 },
   { osmName: 'NAB',                           category: 'academic', height: 20 },
   { osmName: 'Department of Pharmacy',        category: 'academic', height: 16 },
   { osmName: 'Rakesh Kapoor Innovation Centre', category: 'academic', height: 16 },
+  { osmName: 'New BITS Workshop',                  category: 'academic', height: 12 },
+  { osmName: 'new workshop',                  category: 'academic', height: 12 },
 
   // Mess
   { osmName: 'KG mess',                       category: 'mess',     height: 8  },
@@ -52,17 +57,16 @@ export const BUILDINGS: BuildingConfig[] = [
   { osmName: 'Shankar Vyas Mess',             category: 'mess',     height: 8  },
   { osmName: 'VKB mess',                      category: 'mess',     height: 8  },
 
-  // Library
+  // Misc
   { osmName: 'BITS Library',                  category: 'library',  height: 22 },
-
-  // LTC
   { osmName: 'Lecture Theatre Complex',       category: 'ltc',      height: 16 },
+  { osmName: 'Student Activity Center (SAC)',      category: 'sac',      height: 16}
 ];
 
 export const SELECTED_NAMES = new Set(BUILDINGS.map(b => b.osmName));
 
 export function buildColorExpression(): ExpressionSpecification {
-  const expr: any[] = ['match', ['get', 'name']];
+  const expr: unknown[] = ['match', ['get', 'name']];
   for (const b of BUILDINGS) {
     expr.push(b.osmName, BUILDING_COLORS[b.category]);
   }
@@ -71,7 +75,7 @@ export function buildColorExpression(): ExpressionSpecification {
 }
 
 export function buildHeightExpression(): ExpressionSpecification {
-  const expr: any[] = ['match', ['get', 'name']];
+  const expr: unknown[] = ['match', ['get', 'name']];
   for (const b of BUILDINGS) {
     expr.push(b.osmName, b.height);
   }
@@ -83,7 +87,7 @@ export function buildOpacityExpression(
   selectedOpacity: number,
   defaultOpacity: number
 ): ExpressionSpecification {
-  const expr: any[] = ['match', ['get', 'name']];
+  const expr: unknown[] = ['match', ['get', 'name']];
   for (const b of BUILDINGS) {
     expr.push(b.osmName, selectedOpacity);
   }

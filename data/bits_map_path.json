@@ -1,0 +1,3861 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "akshay",
+        "type": "food"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5898767,
+          28.3571256
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "anc",
+        "type": "food"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58925198947071,
+          28.360440701950367
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "anc circle"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58922895418898,
+          28.36055902166068
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ashok bhawan",
+        "type": "hostel"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5909769805289,
+          28.361434139660304
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BET office"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5887962,
+          28.3577182
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bhagirath bhawan",
+        "type": "hostel"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58914752280248,
+          28.361158176397595
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birla museum",
+        "type": "landmark"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58525613915648,
+          28.36306451084532
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "birla shishu vihar"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5873935,
+          28.3576279
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Budh bhawan",
+        "type": "hostel"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58678912829359,
+          28.360871617121063
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "budh stairs"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5866895,
+          28.3614542
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "circle 1"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5910831,
+          28.360834
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "clock tower",
+        "type": "landmark"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58701300971444,
+          28.363832298247388
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cnot"
+      },
+      "geometry": {
+        "coordinates": [
+          75.591963,
+          28.3563112
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cvr bhawan"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5908844,
+          28.3619028
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DCC"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58900328891008,
+          28.361990831244626
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "fd 1 main entrance"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5886022,
+          28.3642572
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "fd1 side entrance"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5886703,
+          28.3638947
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "fd2 entrance",
+        "type": "academic"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5877206,
+          28.3635528
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "fd2 side entrance"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58855596705041,
+          28.364543273932842
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "fd3 entrance",
+        "type": "academic"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58631630260084,
+          28.363459828272212
+        ],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "fm"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5884858,
+          28.3648994
+        ],
+        "type": "Point"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gandhi bhawan",
+        "type": "hostel"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58821450834378,
+          28.361002773669867
+        ],
+        "type": "Point"
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gandhi stairs"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5881044,
+          28.3615507
+        ],
+        "type": "Point"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gandhi statue - sac"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5859936,
+          28.3601299
+        ],
+        "type": "Point"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gymg main entrance",
+        "type": "facility"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58931217892979,
+          28.36012061205217
+        ],
+        "type": "Point"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KG mess"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5880631,
+          28.3617788
+        ],
+        "type": "Point"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "krishna bhawan",
+        "type": "hostel"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58792738686398,
+          28.36254580365052
+        ],
+        "type": "Point"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "krishna stairs"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5878942,
+          28.3626833
+        ],
+        "type": "Point"
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "library"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5884064,
+          28.3653179
+        ],
+        "type": "Point"
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "looters,tott, dominos",
+        "type": "food"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58574477028932,
+          28.361463473056446
+        ],
+        "type": "Point"
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ltc",
+        "type": "academic"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58988033666768,
+          28.365109603601454
+        ],
+        "type": "Point"
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "m lawns"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5878005,
+          28.3631995
+        ],
+        "type": "Point"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "main gate"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5929654,
+          28.3610555
+        ],
+        "type": "Point"
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "malviya bhavan",
+        "type": "hostel"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58562283393684,
+          28.362104516250355
+        ],
+        "type": "Point"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "malviya-museum"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5854947,
+          28.3627973
+        ],
+        "type": "Point"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "medc"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5897438,
+          28.3578242
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "medc grounds"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5916157627718,
+          28.35810024444886
+        ],
+        "type": "Point"
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "meera bhavan"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58650986206189,
+          28.357324217526102
+        ],
+        "type": "Point"
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "meera-pooja"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5867311,
+          28.3560135
+        ],
+        "type": "Point"
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "meera-saraswati-gandhi statue"
+      },
+      "geometry": {
+        "coordinates": [
+          75.587295,
+          28.3581236
+        ],
+        "type": "Point"
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pooja grounds"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5851405,
+          28.3556919
+        ],
+        "type": "Point"
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "post office"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5905691,
+          28.363599
+        ],
+        "type": "Point"
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ram bhawan",
+        "type": "hostel"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58653353623325,
+          28.362347527300216
+        ],
+        "type": "Point"
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ram stairs",
+        "type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58650391706186,
+          28.362515446182186
+        ],
+        "type": "Point"
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RB mess"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58666610634354,
+          28.36158291488424
+        ],
+        "type": "Point"
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rkic"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5883128,
+          28.3658267
+        ],
+        "type": "Point"
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rotunda",
+        "type": "landmark"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58705542135661,
+          28.36348992208694
+        ],
+        "type": "Point"
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rotunda exit krishna side",
+        "type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5877672,
+          28.3634161
+        ],
+        "type": "Point"
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rotunda exit ram side",
+        "type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5864266,
+          28.3630629
+        ],
+        "type": "Point"
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rp bhawan",
+        "type": "hostel"
+      },
+      "geometry": {
+        "coordinates": [
+          75.59069480727524,
+          28.362928482460234
+        ],
+        "type": "Point"
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RPA mess"
+      },
+      "geometry": {
+        "coordinates": [
+          75.59086869268222,
+          28.36215451330869
+        ],
+        "type": "Point"
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "s lawns"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58644851776073,
+          28.36294289491226
+        ],
+        "type": "Point"
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "s9"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5885796,
+          28.358974
+        ],
+        "type": "Point"
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sac",
+        "type": "recreation"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5858648795261,
+          28.360813463314173
+        ],
+        "type": "Point"
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "saraswati mandir"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5879897,
+          28.3582075
+        ],
+        "type": "Point"
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "shankar bhawan",
+        "type": "hostel"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58843649814423,
+          28.359788266348218
+        ],
+        "type": "Point"
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "shivganga",
+        "type": "landmark"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5900531,
+          28.3561958
+        ],
+        "type": "Point"
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "skylawns entry",
+        "type": "access"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58526664308513,
+          28.363241429009506
+        ],
+        "type": "Point"
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sr main entrance",
+        "type": "hostel"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58701889994515,
+          28.365616992109437
+        ],
+        "type": "Point"
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SV mess"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5885609,
+          28.3590558
+        ],
+        "type": "Point"
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vfast",
+        "type": "facility"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5919163,
+          28.3609267
+        ],
+        "type": "Point"
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vishvakarma bhawan",
+        "type": "hostel"
+      },
+      "geometry": {
+        "coordinates": [
+          75.58888988287893,
+          28.362701919589384
+        ],
+        "type": "Point"
+      },
+      "id": 64
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vk circle"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5887715,
+          28.3633395
+        ],
+        "type": "Point"
+      },
+      "id": 65
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VKB mess"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5890133,
+          28.3618786
+        ],
+        "type": "Point"
+      },
+      "id": 66
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vyas bhawan",
+        "type": "hostel"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5887004,
+          28.3582868
+        ],
+        "type": "Point"
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "workshop"
+      },
+      "geometry": {
+        "coordinates": [
+          75.5884428,
+          28.3651315
+        ],
+        "type": "Point"
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "main gate",
+        "to": "vfast",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5929654,
+            28.3610555
+          ],
+          [
+            75.5919163,
+            28.3609267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "vfast",
+        "to": "circle 1",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5919163,
+            28.3609267
+          ],
+          [
+            75.5910831,
+            28.360834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "circle 1",
+        "to": "Ashok bhawan",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5910831,
+            28.360834
+          ],
+          [
+            75.5909769805289,
+            28.361434139660304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "Ashok bhawan",
+        "to": "cvr bhawan",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5909769805289,
+            28.361434139660304
+          ],
+          [
+            75.5908844,
+            28.3619028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "cvr bhawan",
+        "to": "RPA mess",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5908844,
+            28.3619028
+          ],
+          [
+            75.59086869268222,
+            28.36215451330869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "RPA mess",
+        "to": "rp bhawan",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.59086869268222,
+            28.36215451330869
+          ],
+          [
+            75.59069480727524,
+            28.362928482460234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "rp bhawan",
+        "to": "post office",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.59069480727524,
+            28.362928482460234
+          ],
+          [
+            75.5905691,
+            28.363599
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "post office",
+        "to": "vk circle",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5905689,
+            28.3635988
+          ],
+          [
+            75.5887715,
+            28.3633395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "vk circle",
+        "to": "Vishvakarma bhawan",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5887715,
+            28.3633395
+          ],
+          [
+            75.58888988287893,
+            28.362701919589384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "Vishvakarma bhawan",
+        "to": "DCC",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58888988287893,
+            28.362701919589384
+          ],
+          [
+            75.58900328891008,
+            28.361990831244626
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "DCC",
+        "to": "VKB mess",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58900328891008,
+            28.361990831244626
+          ],
+          [
+            75.5890133,
+            28.3618786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "VKB mess",
+        "to": "bhagirath bhawan",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5890133,
+            28.3618786
+          ],
+          [
+            75.58914752280248,
+            28.361158176397595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "bhagirath bhawan",
+        "to": "anc circle",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58914752280248,
+            28.361158176397595
+          ],
+          [
+            75.58922895418898,
+            28.36055902166068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "anc circle",
+        "to": "circle 1",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5892289,
+            28.3605593
+          ],
+          [
+            75.5910831,
+            28.360834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "circle 1",
+        "to": "medc grounds",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.59108466114084,
+            28.360829395883044
+          ],
+          [
+            75.59161876649613,
+            28.358095598108985
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "medc grounds",
+        "to": "cnot",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5916157627718,
+            28.35810024444886
+          ],
+          [
+            75.591963,
+            28.3563112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "cnot",
+        "to": "shivganga",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.591963,
+            28.3563112
+          ],
+          [
+            75.5903012,
+            28.3561871
+          ],
+          [
+            75.5901789,
+            28.3562118
+          ],
+          [
+            75.5900531,
+            28.3561958
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "shivganga",
+        "to": "akshay",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5900531,
+            28.3561958
+          ],
+          [
+            75.58987600026421,
+            28.35712544018851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "akshay",
+        "to": "medc",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5898767,
+            28.3571256
+          ],
+          [
+            75.5897438,
+            28.3578242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "medc",
+        "to": "medc grounds",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5897438,
+            28.3578242
+          ],
+          [
+            75.59161587048833,
+            28.358100260333018
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "BET office",
+        "to": "medc",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5887962,
+            28.3577182
+          ],
+          [
+            75.5897438,
+            28.3578242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "BET office",
+        "to": "vyas bhawan",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5887962,
+            28.3577182
+          ],
+          [
+            75.5887004,
+            28.3582868
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "vyas bhawan",
+        "to": "saraswati mandir",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5887004,
+            28.3582868
+          ],
+          [
+            75.5879897,
+            28.3582075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "saraswati mandir",
+        "to": "meera-saraswati-gandhi statue",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5879897,
+            28.3582075
+          ],
+          [
+            75.587295,
+            28.3581236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "meera-saraswati-gandhi statue",
+        "to": "birla shishu vihar",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.587295,
+            28.3581236
+          ],
+          [
+            75.5873935,
+            28.3576279
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "birla shishu vihar",
+        "to": "meera bhavan",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5873934,
+            28.3576261
+          ],
+          [
+            75.5872173,
+            28.357497
+          ],
+          [
+            75.5865244,
+            28.3574123
+          ],
+          [
+            75.58650986206189,
+            28.357324217526102
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "meera bhavan",
+        "to": "meera-pooja",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58650986206189,
+            28.357324217526102
+          ],
+          [
+            75.5867311,
+            28.3560135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "meera-pooja",
+        "to": "pooja grounds",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5867311,
+            28.3560135
+          ],
+          [
+            75.585882,
+            28.3558077
+          ],
+          [
+            75.5851405,
+            28.3556919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "vyas bhawan",
+        "to": "s9",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5887004,
+            28.3582868
+          ],
+          [
+            75.5885796,
+            28.358974
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "s9",
+        "to": "SV mess",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5885796,
+            28.358974
+          ],
+          [
+            75.5885609,
+            28.3590558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "SV mess",
+        "to": "shankar bhawan",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5885609,
+            28.3590558
+          ],
+          [
+            75.58843649814423,
+            28.359788266348218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "shankar bhawan",
+        "to": "gandhi-shankar exit",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58843649814423,
+            28.359788266348218
+          ],
+          [
+            75.58833924169353,
+            28.360308532612002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "gandhi-anc exit",
+        "to": "anc circle",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58844404864784,
+            28.36043890207035
+          ],
+          [
+            75.58922895418898,
+            28.36055902166068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "anc circle",
+        "to": "anc",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5892289,
+            28.3605593
+          ],
+          [
+            75.58925198947071,
+            28.360440701950367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "anc",
+        "to": "gymg main entrance",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58925198947071,
+            28.360440701950367
+          ],
+          [
+            75.5893122,
+            28.3601205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "gandhi-krishna exit",
+        "to": "gandhi bhawan",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58829811053623,
+            28.360514405915012
+          ],
+          [
+            75.58821450834378,
+            28.361002773669867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "gandhi bhawan",
+        "to": "gandhi stairs",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58821450834378,
+            28.361002773669867
+          ],
+          [
+            75.5881044,
+            28.3615507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "gandhi stairs",
+        "to": "KG mess",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5881044,
+            28.3615507
+          ],
+          [
+            75.5880631,
+            28.3617788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "KG mess",
+        "to": "krishna bhawan",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5880631,
+            28.3617788
+          ],
+          [
+            75.58792738686398,
+            28.36254580365052
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "krishna bhawan",
+        "to": "krishna stairs",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58792738686398,
+            28.36254580365052
+          ],
+          [
+            75.5878942,
+            28.3626833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "krishna stairs",
+        "to": "m lawns",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5878942,
+            28.3626833
+          ],
+          [
+            75.5878005,
+            28.3631995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "m lawns",
+        "to": "vk circle",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5878005,
+            28.3631995
+          ],
+          [
+            75.5887715,
+            28.3633395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "rotunda exit krishna side",
+        "to": "m lawns",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5877672,
+            28.3634161
+          ],
+          [
+            75.5878005,
+            28.3631995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "rotunda",
+        "to": "rotunda exit krishna side",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58705542135661,
+            28.36348992208694
+          ],
+          [
+            75.5873056,
+            28.3634581
+          ],
+          [
+            75.5876242,
+            28.3635079
+          ],
+          [
+            75.5877672,
+            28.3634161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "fd3 entrance",
+        "to": "rotunda",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58631630260084,
+            28.363459828272212
+          ],
+          [
+            75.5865631,
+            28.3634284
+          ],
+          [
+            75.5868542,
+            28.3636098
+          ],
+          [
+            75.5868,
+            28.3634919
+          ],
+          [
+            75.586867,
+            28.3634652
+          ],
+          [
+            75.58705542135661,
+            28.36348992208694
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "clock tower",
+        "to": "fd3 entrance",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58701300971444,
+            28.363832298247388
+          ],
+          [
+            75.5868691,
+            28.3637881
+          ],
+          [
+            75.586698,
+            28.3636846
+          ],
+          [
+            75.5866255,
+            28.3635367
+          ],
+          [
+            75.5865839,
+            28.3634677
+          ],
+          [
+            75.5864829,
+            28.3634603
+          ],
+          [
+            75.58631630260084,
+            28.363459828272212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "clock tower",
+        "to": "fd2 entrance",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58701300971444,
+            28.363832298247388
+          ],
+          [
+            75.587206,
+            28.3638215
+          ],
+          [
+            75.5874001,
+            28.3637568
+          ],
+          [
+            75.5875095,
+            28.3636656
+          ],
+          [
+            75.5875924,
+            28.3635943
+          ],
+          [
+            75.5877206,
+            28.3635528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "fd3 entrance",
+        "to": "rotunda exit ram side",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58631630260084,
+            28.363459828272212
+          ],
+          [
+            75.5863161,
+            28.363345
+          ],
+          [
+            75.5864107,
+            28.3632191
+          ],
+          [
+            75.5864266,
+            28.3630629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "rotunda exit ram side",
+        "to": "s lawns",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5864266,
+            28.3630629
+          ],
+          [
+            75.58644851776073,
+            28.36294289491226
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "s lawns",
+        "to": "ram stairs",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58644851776073,
+            28.36294289491226
+          ],
+          [
+            75.58650391706186,
+            28.362515446182186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "ram stairs",
+        "to": "ram bhawan",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58650391706186,
+            28.362515446182186
+          ],
+          [
+            75.58653353623325,
+            28.362347527300216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "ram bhawan",
+        "to": "RB mess",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58653353623325,
+            28.362347527300216
+          ],
+          [
+            75.586666,
+            28.3615835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "RB mess",
+        "to": "budh stairs",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.586666,
+            28.3615835
+          ],
+          [
+            75.5866895,
+            28.3614542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "budh stairs",
+        "to": "Budh bhawan",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5866895,
+            28.3614542
+          ],
+          [
+            75.58678912829359,
+            28.360871617121063
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "Budh bhawan",
+        "to": "sac-ram exit",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58678912829359,
+            28.360871617121063
+          ],
+          [
+            75.5868799,
+            28.3603382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "sac-sac exit",
+        "to": "gandhi statue - sac",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5867916,
+            28.3602253
+          ],
+          [
+            75.5859936,
+            28.3601299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "gandhi statue - sac",
+        "to": "sac",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5859936,
+            28.3601299
+          ],
+          [
+            75.5858648795261,
+            28.360813463314173
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "sac",
+        "to": "looters,tott, dominos",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5858648795261,
+            28.360813463314173
+          ],
+          [
+            75.58574477028932,
+            28.361463473056446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "looters,tott, dominos",
+        "to": "malviya bhavan",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58574477028932,
+            28.361463473056446
+          ],
+          [
+            75.58562283393684,
+            28.362104516250355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "malviya bhavan",
+        "to": "malviya-museum",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58562283393684,
+            28.362104516250355
+          ],
+          [
+            75.5854947,
+            28.3627973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "malviya-museum",
+        "to": "Birla museum",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58549475612419,
+            28.362797308567043
+          ],
+          [
+            75.5853989,
+            28.3628198
+          ],
+          [
+            75.5853115,
+            28.3628887
+          ],
+          [
+            75.5852656,
+            28.3629729
+          ],
+          [
+            75.58525613915648,
+            28.36306451084532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "Birla museum",
+        "to": "skylawns entry",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58525613915648,
+            28.36306451084532
+          ],
+          [
+            75.58526664308513,
+            28.363241429009506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "malviya-museum",
+        "to": "s lawns",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5854947,
+            28.3627973
+          ],
+          [
+            75.58644851776073,
+            28.36294289491226
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "sr main entrance",
+        "to": "rkic",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58701889994515,
+            28.365616992109437
+          ],
+          [
+            75.5883128,
+            28.3658267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "rkic",
+        "to": "library",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5883128,
+            28.3658267
+          ],
+          [
+            75.5884064,
+            28.3653179
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "library",
+        "to": "workshop",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5884064,
+            28.3653179
+          ],
+          [
+            75.5884428,
+            28.3651315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "workshop",
+        "to": "fm",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5884428,
+            28.3651315
+          ],
+          [
+            75.5884858,
+            28.3648994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "fm",
+        "to": "ltc",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5884858,
+            28.3648994
+          ],
+          [
+            75.58988033666768,
+            28.365109603601454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "fd2 side entrance",
+        "to": "fm",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58855596705041,
+            28.364543273932842
+          ],
+          [
+            75.5884858,
+            28.3648994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "fd 1 main entrance",
+        "to": "fd1 side entrance",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5886022,
+            28.3642572
+          ],
+          [
+            75.5886703,
+            28.3638947
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "fd1 side entrance",
+        "to": "vk circle",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5886703,
+            28.3638947
+          ],
+          [
+            75.5887715,
+            28.3633395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "fd2 side entrance",
+        "to": "fd 1 main entrance",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58855596705041,
+            28.364543273932842
+          ],
+          [
+            75.5886022,
+            28.3642572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "sac-meera exit",
+        "to": "meera-saraswati-gandhi statue",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5869188609291,
+            28.360135715589838
+          ],
+          [
+            75.58728655858002,
+            28.35812925108672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "gandhi-sac exit",
+        "to": "sac-gandhi exit",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58821169792256,
+            28.360399875676197
+          ],
+          [
+            75.58702400571326,
+            28.360252737405155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "gymg main entrance",
+        "to": "medc",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ],
+        "name": "anc medc road"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5893103,
+            28.3601227
+          ],
+          [
+            75.5897438,
+            28.3578242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5869201,
+            28.3601287
+          ],
+          [
+            75.5869201,
+            28.3601287
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gandhi-anc exit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.588444,
+          28.3604387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gandhi-krishna exit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5882982,
+          28.3605144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gandhi-shankar exit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.588339,
+          28.3603084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gandhi-sac exit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5882115,
+          28.3603999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5882109,
+            28.3603998
+          ],
+          [
+            75.5882109,
+            28.3603998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "gandhi-sac exit",
+        "to": "gandhi-krishna exit",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ],
+        "name": "gandhi circle II"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5882109,
+            28.3603998
+          ],
+          [
+            75.5882132,
+            28.3604326
+          ],
+          [
+            75.5882231,
+            28.36046
+          ],
+          [
+            75.5882436,
+            28.3604844
+          ],
+          [
+            75.5882736,
+            28.3605051
+          ],
+          [
+            75.5882982,
+            28.3605144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5882975,
+            28.3605139
+          ],
+          [
+            75.5882975,
+            28.3605139
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "gandhi-krishna exit",
+        "to": "gandhi-anc exit",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ],
+        "name": "gandhi circle I"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5882981,
+            28.3605145
+          ],
+          [
+            75.5883301,
+            28.3605178
+          ],
+          [
+            75.5883635,
+            28.3605122
+          ],
+          [
+            75.5884023,
+            28.3604948
+          ],
+          [
+            75.5884289,
+            28.3604694
+          ],
+          [
+            75.588444,
+            28.3604387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5884432,
+            28.3604391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "gandhi-anc exit",
+        "to": "gandhi-shankar exit",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ],
+        "name": "gandhi circle IV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5884437,
+            28.3604391
+          ],
+          [
+            75.5884442,
+            28.3603978
+          ],
+          [
+            75.5884327,
+            28.3603629
+          ],
+          [
+            75.5884011,
+            28.3603338
+          ],
+          [
+            75.588369,
+            28.3603165
+          ],
+          [
+            75.588339,
+            28.3603084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.588338,
+            28.3603081
+          ],
+          [
+            75.588338,
+            28.3603081
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "gandhi-shankar exit",
+        "to": "gandhi-sac exit",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ],
+        "name": "gandhi circle III"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5883388,
+            28.3603083
+          ],
+          [
+            75.5883042,
+            28.3603134
+          ],
+          [
+            75.5882724,
+            28.3603252
+          ],
+          [
+            75.5882481,
+            28.3603436
+          ],
+          [
+            75.5882278,
+            28.3603651
+          ],
+          [
+            75.5882152,
+            28.3603835
+          ],
+          [
+            75.5882115,
+            28.3603999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sac-sac exit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5867912,
+          28.360225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sac-ram exit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5868799,
+          28.3603382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sac-gandhi exit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5870243,
+          28.3602518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sac-meera exit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5869188,
+          28.3601355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "sac-ram exit",
+        "to": "sac-gandhi exit",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ],
+        "name": "sac circle I"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5868789,
+            28.3603387
+          ],
+          [
+            75.5869291,
+            28.360338
+          ],
+          [
+            75.5869747,
+            28.3603206
+          ],
+          [
+            75.5870051,
+            28.3602945
+          ],
+          [
+            75.5870243,
+            28.3602518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "sac-gandhi exit",
+        "to": "sac-meera exit",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ],
+        "name": "sac circle IV"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5870241,
+            28.3602524
+          ],
+          [
+            75.5870218,
+            28.360217
+          ],
+          [
+            75.5870051,
+            28.3601835
+          ],
+          [
+            75.5869724,
+            28.3601541
+          ],
+          [
+            75.5869188,
+            28.3601355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "sac-meera exit",
+        "to": "sac-sac exit",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ],
+        "name": "sac circle III"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5869177,
+            28.3601367
+          ],
+          [
+            75.586869,
+            28.3601427
+          ],
+          [
+            75.5868394,
+            28.3601574
+          ],
+          [
+            75.586806,
+            28.3601882
+          ],
+          [
+            75.5867912,
+            28.360225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "sac-sac exit",
+        "to": "sac-ram exit",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ],
+        "name": "sac circle II"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58679,
+            28.3602243
+          ],
+          [
+            75.5867999,
+            28.3602618
+          ],
+          [
+            75.5868174,
+            28.3602972
+          ],
+          [
+            75.5868523,
+            28.3603253
+          ],
+          [
+            75.5868799,
+            28.3603382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5877197,
+            28.3635528
+          ],
+          [
+            75.5877697,
+            28.3634972
+          ],
+          [
+            75.5877672,
+            28.3634161
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "krishna vishwa sc kr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5880133,
+          28.3620592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "krishna vishwa sc vishwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5889586,
+          28.3622236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "krishna vishwa sc kr",
+        "to": "krishna vishwa sc vishwa",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ],
+        "name": "krishna vishwa sc"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5880133,
+            28.3620592
+          ],
+          [
+            75.5889586,
+            28.3622236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vishwa RP sc RP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5907794,
+          28.3624663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "krishna vishwa sc vishwa",
+        "to": "vishwa RP sc RP",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ],
+        "name": "Vishwa RP sc"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5889586,
+            28.3622236
+          ],
+          [
+            75.5907794,
+            28.3624663
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gandhi bhagi sc bhagi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5890493,
+          28.3616815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "gandhi stairs",
+        "to": "gandhi bhagi sc bhagi",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ],
+        "name": "gandhi bhagi sc"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5890493,
+            28.3616815
+          ],
+          [
+            75.5881044,
+            28.3615507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "gandhi bhagi sc bhagi",
+        "to": "cvr bhawan",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ],
+        "name": "bhagi cvr sc"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5890493,
+            28.3616815
+          ],
+          [
+            75.5890638,
+            28.3616275
+          ],
+          [
+            75.5908844,
+            28.3619028
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "krishna bhawan",
+        "to": "krishna vishwa sc kr",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ],
+        "name": "krishna shortcut connector"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.58792738686398,
+            28.36254580365052
+          ],
+          [
+            75.5880133,
+            28.3620592
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "krishna vishwa sc vishwa",
+        "to": "Vishvakarma bhawan",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ],
+        "name": "vishwa shortcut connector"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5889586,
+            28.3622236
+          ],
+          [
+            75.58888988287893,
+            28.362701919589384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "vishwa RP sc RP",
+        "to": "rp bhawan",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ],
+        "name": "rp shortcut connector"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5907794,
+            28.3624663
+          ],
+          [
+            75.59069480727524,
+            28.362928482460234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "path_type": "road",
+        "from": "gandhi bhagi sc bhagi",
+        "to": "bhagirath bhawan",
+        "allowed": [
+          "walk",
+          "cycle",
+          "vehicle"
+        ],
+        "name": "bhagi shortcut connector"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.5890493,
+            28.3616815
+          ],
+          [
+            75.58914752280248,
+            28.361158176397595
+          ]
+        ]
+      }
+    }
+  ]
+}
